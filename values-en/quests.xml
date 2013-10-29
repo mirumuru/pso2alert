@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="unknow_quest">緊急クエスト</string>
+    <string name="ranking">ｲﾝﾀﾗﾌﾟﾄﾗﾝｷﾝｸﾞ</string>
+    <string name="city">市街地</string>
+    <string name="naberius">惑星ナベリウス</string>
+    <string name="riripa">惑星リリーパ</string>
+    <string name="amd">惑星アムドゥスキア</string>
+    <string name="opal">惑星ウォパル</string>
+    <string name="city_ragne">市街地奪還作戦</string>
+    <string name="city_point">市街地掃討作戦</string>
+    <string name="city_hunal">淵へと迫りしもの</string>
+    <string name="forest_fang">ファングバンサー討伐</string>
+    <string name="tunnel_machine">巨大機甲種・覚醒</string>
+    <string name="tunnel_bb">境界を破る闘将</string>
+    <string name="volcano_point">火山洞窟遊撃戦</string>
+	<string name="desert_point">砂漠遊撃戦</string>
+	<string name="float_dragon">暴走龍の怨嗟</string>
+	<string name="falz_arm">Falz Arms</string>
+	<string name="falz_body">Falz Body</string>
+	<string name="elder_arm">猛る黒曜の暴腕</string>
+	<string name="elder_body">深淵に至りし巨なる躯</string>
+	<string name="desert_trick">トリックオアトリート</string>
+	<string name="ice_xmas">氷上のメリークリスマス</string>
+	<string name="volcano_choco">チョコレートの行方</string>
+	<string name="float_white">ホワイトデーは大わらわ</string>
+	<string name="forest_rain">雨風とともに</string>
+	<string name="city_fire">アークスシップの炎渦</string>
+	<string name="coast_wars">ビーチウォーズ</string>
+	<string name="darkness_cradle">DarknessCradle</string>
+	<string name="desert_defence">DesertDefence</string>
+	
+	<string name="target_unkown_quest">緊急クエストが発令されました</string>
+	<string name="target_ranking">上位入賞を目指して頑張ってください！</string>
+    <string name="target_city">市街地にて緊急警報が発令されました</string>
+    <string name="target_naberius">惑星ナベリウスにて緊急警報が発令されました</string>
+    <string name="target_riripa">惑星リリーパにて緊急警報が発令されました</string>
+    <string name="target_amd">惑星アムドゥスキアにて緊急警報が発令されました</string>
+    <string name="target_opal">惑星ウォパルにて緊急警報が発令されました</string>
+    <string name="target_city_ragne">最深部を目指せ!</string>
+    <string name="target_city_point">ダーカーを撃退しクエストポイントをためろ!</string>
+    <string name="target_city_hunal">ファルス・ヒューナルの撃破</string>
+    <string name="target_forest_fang">ファングバンサーを討伐せよ!</string>
+    <string name="target_tunnel_machine">ビッグヴァーダーを撃破せよ！</string>
+    <string name="target_tunnel_bb">謎の敵性機械エネミーの撃破</string>
+    <string name="target_volcano_point">時間一杯エネミーを撃破せよ！</string>
+	<string name="target_desert_point">時間一杯エネミーを撃退せよ！</string>
+	<string name="target_float_dragon">クローム・ドラゴンの撃破</string>
+	<string name="target_falz_arm">ファルス・アームを撃破せよ!</string>
+	<string name="target_falz_body">ダークファルス・エルダーの撃破</string>
+	<string name="target_elder_arm">ファルス・アームを撃破せよ!</string>
+	<string name="target_elder_body">ダークファルス・エルダーの撃破</string>
+	<string name="target_desert_trick">ナウラ3姉妹のケーキ屋を探し出せ！</string>
+	<string name="target_ice_xmas">ナウラ3姉妹のケーキ屋を探し出せ！</string>
+	<string name="target_volcano_choco">バレンタインPtをためろ！</string>
+	<string name="target_float_white">ホワイトデーPtをためろ！</string>
+	<string name="target_forest_rain">最深部を目指せ！</string>
+	<string name="target_city_fire">要救助者を救助しクエストポイントをためろ！</string>
+	<string name="target_coast_wars">ビーチptをためろ！</string>
+	<string name="target_darkness_cradle">Aim the deepest!</string>
+	<string name="target_desert_defence">Whatever defense the mining base!</string>
+		
+	
+</resources>

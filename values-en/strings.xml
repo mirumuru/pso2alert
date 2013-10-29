@@ -1,0 +1,117 @@
+<resources>
+
+    <string name="app_name">PSO2 EQ Alert</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Waiting&#8230;</string>
+    <string name="gcm_registered">---通知登録に成功しました．</string>
+    <string name="gcm_unregistered">---通知登録を解除します</string>
+    <string name="gcm_message">Arksship</string>
+    <string name="gcm_error">エラーが発生しました．(%1$s).</string>
+    <string name="gcm_recoverable_error">エラーから復帰します．(%1$s).</string>
+    <string name="gcm_deleted">アークスシップからの連絡が途絶えました．．．</string>
+    <string name="server_registering">サーバーと接続中です．．．</string>
+    <string name="server_registered">アークスシップとの通信に成功しました．</string>
+    <string name="server_unregistered">アークスシップとの通信を遮断しました．</string>
+    <string name="server_register_error">どうやら通信に失敗したようです． %1$d </string>
+    <string name="server_unregister_error">どうやら遮断に失敗したようです． (%1$s)</string>
+    <string name="options_register">通知登録</string>
+    <string name="options_twitter">developer\'s twitter</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_help">Help</string>
+    <string name="options_exit">Exit</string>
+    <string name="options_settings">Upgrade</string>
+    <string name="button">settings save</string>
+    <string name="button_Ship">シップを選択する．</string>
+    <string name="explain">Please wait a little more because it asked the English translation.\nWarning issued at the time, notification will be sent to about 50 minutes per hour information of Twitter.
+        You may notice or delay by the situation murmur, a server, and you can not reach.Please note.</string>
+    <string name="str_how2">Take the tour</string>
+    <string name="str_how2txt">First\nPlease select the ship you want to be notified. You will receive a notification then.\n\n※ツイッター，通知サーバーの状況により緊急発生時に必ず通知が届くことをお約束できません．ご理解の上ご利用ください．</string>
+    <string name="str_quest">Quest to notify</string>
+    <string name="msg_saves_ettings">設定を保存しました</string>
+    <string name="ticker_msg">Conntact to ARKS Ship!</string>
+    <string name="str_ship">Ship to notify</string>
+    <string name="tweet_message"> #pso2eq Ship </string>
+    <string name="str_changesettings">setting</string>
+    <string name="str_tweet">tweet</string>
+    <string name="str_choiceship">Please select a ship to notify</string>
+    <string name="str_reserveship">からの緊急通知を受け取ります</string>
+    <string name="str_sirent">no sound</string>
+    <string name="str_sound">Notification sound</string>
+    <string name="str_sound_choice">Notification sound choice</string>
+    <string name="str_vibration">Notification vibration</string>
+    <string name="str_show_icon">Show icon on statusbar</string>
+    <string name="str_badge">Notification badge</string>
+    <string name="desc_sound">Sounds upon notification</string>
+    <string name="desc_no_sound">Sounds no upon notification</string>
+    <string name="desc_vibration">Vibrate upon notification</string>
+    <string name="desc_no_vibration">Vibrate no upon notification</string>
+    <string name="desc_icon">通知待機中にアイコンを表示します</string>
+    <string name="desc_no_icon">通知待機中にアイコンを表示しません</string>
+    <string name="desc_badge">シップ番号を通知アイコンに表示します</string>
+    <string name="desc_no_badge">シップ番号を通知アイコンに表示しません</string>
+    <string name="str_mute_time">Notification exclusion time</string>
+    <string name="mute_time">Notification exclusion time</string>
+    <string name="desc_mute_time">通知を除外する時間を設定します</string>
+    <string name="desc_no_mute_time">通知を除外する時間を設定しません</string>
+    <string name="str_range">Range</string>
+    <string name="str_update">アップデート通知</string>
+    <string name="target_update">アプリの最新バージョンが公開されています．ストアより更新お願いします．</string>
+    <string name="buy_thank_msg">ご購入ありがとうございました！再起動することでオプションが有効になります．\n
+								緊急クエストの種類選択は，通知シップボタンを長押しすることで表示されます.
+								わからなくなった場合はヘルプを確認してください．</string>
+    <string name="buy_error_msg">何らかの理由により購入できませんでした．</string>
+    <string name="help_msg">"HELP\n"
+					 "Thank you for using PSO2 emergency alert.\n"
+					 "Please wait a little more because it asked the English translation.\n"
+					 "-------------\n"
+					 "[1]通知を受け取る\n"
+					 "アプリを起動したあと，上部に表示されるボタンを押すと，シップの一覧が表示されます．"
+					 "通知を受け取りたいシップを選択し，OKを押すと設定は終了です．\n"
+					 "-------------\n"
+					 "[2]通知音を変更する\n"
+					 "アプリをインストールした直後は，サイレントに設定されているため通知が届いても"
+					 "通知音がならないようになっています．\n"
+					 "「通知音」をタップしてチェックを入れると，通知音を選択できるようになります．"
+					 "反対に通知音を解除する場合は，チェックを外すだけです．\n"
+					 "※音関連は機種によって仕様が異なるため再生できない場合があります．ご了承ください．\n"
+					 "-------------\n"
+					 "[3]通知バイブレーション\n"
+					 "「通知バイブレーション」にチェックを入れることで通知時に振動します．振動させない場合は，"
+					 "チェック外してください．\n"
+					 "-------------\n"
+					 "[4]アイコン表示\n"
+					 "「アイコン表示」にチェックを入れると，通知バーに本アプリのアイコンが常時表示されます．"
+					 "通知バーから簡単に設定画面に移動できます．また，Android4.0以降の機種の場合"
+					 "Twitter等へ簡単につぶやくことが可能になります．shipの後ろにシップ番号と発生した緊急クエの"
+					 "名称をつぶやくことで，本アプリを始めとしたTwitterを利用しているアークスに情報を発信することが可能です．\n"
+					 "-------------\n"
+					 "[5]通知アイコン（シップ番号）\n"
+					 "「通知アイコン（シップ番号）」にチェックを入れると，通知時に表示される通知アイコンに"
+					 "シップ番号が表示されるようになります．ブラウザや，他のアプリを起動中など上部の通知領域を見るだけで"
+					 "どのシップに通知が来たか分かります．複数のシップを通知対象にしている方などにオススメの機能です．\n"
+					 "-------------\n"
+					 "[6]オプションについて\n"
+					 "本アプリでは，オプションを購入していただくことで，通常では1つのシップの通知しか受け取れませんが"
+					 "複数のシップからの緊急クエストの発生通知を受け取ることが可能になります．また，緊急クエストの"
+					 "種類に応じて通知を受け取る・受け取らないの設定が可能になったりします．ご利用いただいた上で，"
+					 "「いいな」と思われたさいは購入いただけるとうれしいです．サーバー費用等に充てさせていただいてます．\n"
+					 "-------------\n"
+					 "[7]通知クエスト(オプション)\n"
+					 "こちらの機能はオプションを購入していただくことで利用できます．\n"
+					 "通知シップの選択ボタンを長押しすることで，通知クエストの選択が可能です．"
+					 "初期状態は，全てのクエストにチェックが入っているためクエストの種類に関わらず通知"
+					 "されるようになっています．チェックを外すと，そのクエストについては通知対象から外すことが可能です．"
+					 "通知クエストは，惑星とクエスト単位から選択が可能です．例えば，「市街地」のチェックを外した場合"
+					 "「市街地奪還作戦」「市街地掃討作戦」「淵へと迫りしもの」が通知対象からはずされます．"
+					 "Twitterのつぶやきに緊急クエストの種類が書かれていない場合や，期間限定クエスト等の場合ここでの設定に関わらず"
+					 "通知されます．ご注意ください．\n"</string>
+    <string name="buy_title">Upgrade</string>
+    <string name="buy_whats">"ご利用ありがとうございます．\n" 
+        				 "オプションを有効にすることで\n"
+						 "●Ship multiple selection""
+						"●Non-ad Display\n"</string>
+
+</resources>

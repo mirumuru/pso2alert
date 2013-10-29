@@ -1,0 +1,123 @@
+<resources>
+
+    <string name="app_name">PSO2緊急アラート</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">設定</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">通知待機中</string>
+    <string name="gcm_registered">---通知登録に成功しました．</string>
+    <string name="gcm_unregistered">---通知登録を解除します</string>
+    <string name="gcm_message">アークスシップ</string>
+    <string name="gcm_error">エラーが発生しました．(%1$s).</string>
+    <string name="gcm_recoverable_error">エラーから復帰します．(%1$s).</string>
+    <string name="gcm_deleted">アークスシップからの連絡が途絶えました．．．</string>
+    <string name="server_registering">サーバーと接続中です．．．</string>
+    <string name="server_registered">アークスシップとの通信に成功しました．</string>
+    <string name="server_unregistered">アークスシップとの通信を遮断しました．</string>
+    <string name="server_register_error">通信に失敗しました． %1$d \nしばらくしてから，再起動してください．</string>
+    <string name="server_unregister_error">どうやら遮断に失敗したようです． (%1$s)</string>
+    <string name="options_register">通知登録</string>
+    <string name="options_twitter">開発者ツイッター</string>
+    <string name="options_clear">通知エリアのリセット</string>
+    <string name="options_help">ヘルプ・使い方</string>
+    <string name="options_exit">終了する</string>
+    <string name="options_settings">オプション（購入）</string>
+    <string name="button">設定を保存する</string>
+    <string name="button_Ship">シップを選択する．</string>
+    <string name="explain">ツイッターの情報をもとに緊急情報を通知します．緊急情報がつぶやかれていない場合は通知が行われません．またサーバーの混雑具合により最大30分ほどの遅延が発生する場合があります．あらかじめご理解ください．</string>
+    <string name="str_how2">使い方ガイド</string>
+    <string name="str_how2txt">はじめに\n通知を受け取りたいシップを選択します．選択後緊急発令時に通知が届くようになります．\n\n※ツイッター，通知サーバーの状況により緊急発生時に必ず即時通知が届くことをお約束できません．ご理解の上ご利用ください．</string>
+    <string name="str_quest">通知クエスト</string>
+    <string name="msg_saves_ettings">設定を保存しました</string>
+    <string name="ticker_msg">アークスシップと交信中</string>
+    <string name="str_ship">通知シップ</string>
+    <string name="tweet_message">#緊急クエ #pso2 #pso2_ship </string>
+    <string name="str_changesettings">設定変更</string>
+    <string name="str_tweet">つぶやく</string>
+    <string name="str_choiceship">通知するシップを選択してください</string>
+    <string name="str_reserveship">からの緊急通知を受け取ります</string>
+    <string name="str_sirent">サイレント</string>
+    <string name="str_sound">通知音</string>
+    <string name="str_sound_choice">通知音選択</string>
+    <string name="str_vibration">通知バイブレーション</string>
+    <string name="str_show_icon">アイコン表示</string>
+    <string name="str_badge">通知アイコン（シップ番号）</string>
+    <string name="str_mute_time">通知除外時間</string>
+    <string name="desc_mute_time">通知を除外する時間を設定します</string>
+    <string name="desc_no_mute_time">通知を除外する時間を設定しません</string>
+    <string name="mute_time">通知除外時間</string>
+    <string name="str_range">時間範囲</string>
+    <string name="str_update">アップデート通知</string>
+    <string name="target_update">アプリの最新バージョンが公開されています．ストアより更新お願いします．</string>
+    <string name="desc_sound">通知受け取り時に音を鳴らします</string>
+    <string name="desc_no_sound">通知受け取り時に音を鳴らしません</string>
+    <string name="desc_vibration">通知受け取り時に振動します</string>
+    <string name="desc_no_vibration">通知受け取り時に振動しません</string>
+    <string name="desc_icon">通知待機中にアイコンを表示します</string>
+    <string name="desc_no_icon">通知待機中にアイコンを表示しません</string>
+    <string name="desc_badge">シップ番号を通知アイコンに表示します</string>
+    <string name="desc_no_badge">シップ番号を通知アイコンに表示しません</string>
+    <string name="buy_thank_msg">ご購入ありがとうございました！再起動することでオプションが有効になります．\n
+								緊急クエストの種類選択は，通知シップボタンを長押しすることで表示されます.
+								わからなくなった場合はヘルプを確認してください．</string>
+    <string name="buy_error_msg">何らかの理由により購入できませんでした．</string>
+    <string name="help_msg">"ヘルプ\n"
+					 "PSO2緊急アラートをご利用いただきありがとうございます．\n"
+					 "-------------\n"
+					 "[1]通知を受け取る\n"
+					 "アプリを起動したあと，上部に表示されるボタンを押すと，シップの一覧が表示されます．"
+					 "通知を受け取りたいシップを選択し，OKを押すと設定は終了です．\n"
+					 "-------------\n"
+					 "[2]通知音を変更する\n"
+					 "アプリをインストールした直後は，サイレントに設定されているため通知が届いても"
+					 "通知音がならないようになっています．\n"
+					 "「通知音」をタップしてチェックを入れると，通知音を選択できるようになります．"
+					"反対に通知音を解除する場合は，チェックを外すだけです．\n"
+					 "※音関連は機種によって仕様が異なるため再生できない場合があります．ご了承ください．\n"
+					 "-------------\n"
+					 "[3]通知バイブレーション\n"
+					 "「通知バイブレーション」にチェックを入れることで通知時に振動します．振動させない場合は，"
+					 "チェック外してください．\n"
+					 "-------------\n"
+					 "[4]アイコン表示\n"
+					 "「アイコン表示」にチェックを入れると，通知バーに本アプリのアイコンが常時表示されます．"
+					 "通知バーから簡単に設定画面に移動できます．また，Android4.0以降の機種の場合"
+					 "Twitter等へ簡単につぶやくことが可能になります．shipの後ろにシップ番号と発生した緊急クエの"
+					 "名称をつぶやくことで，本アプリを始めとしたTwitterを利用しているアークスに情報を発信することが可能です．\n"
+					 "-------------\n"
+					 "[5]通知アイコン（シップ番号）\n"
+					 "「通知アイコン（シップ番号）」にチェックを入れると，通知時に表示される通知アイコンに"
+					 "シップ番号が表示されるようになります．ブラウザや，他のアプリを起動中など上部の通知領域を見るだけで"
+					 "どのシップに通知が来たか分かります．複数のシップを通知対象にしている方などにオススメの機能です．\n"
+					 "-------------\n"
+					 "[6]通知除外時間設定\n"
+					 "深夜や早朝など通知を受けとりたくない時間帯をあらかじめ"
+					 "指定して設定することが可能です．バーを動かして設定してください．"
+					 "チェックを外すと，時間を設定していても無効になります．（通知が届く）"
+					  "-------------\n"
+					 "[7]オプションについて\n"
+					 "本アプリでは，オプションを購入していただくことで，通常では1つのシップの通知しか受け取れませんが"
+					 "複数のシップからの緊急クエストの発生通知を受け取ることが可能になります．また，緊急クエストの"
+					 "種類に応じて通知を受け取る・受け取らないの設定が可能になったりします．ご利用いただいた上で，"
+					 "「いいな」と思われたさいは購入いただけるとうれしいです．サーバー費用等に充てさせていただいてます．\n"
+					 "-------------\n"
+					 "[8]通知クエスト(オプション)\n"
+					 "こちらの機能はオプションを購入していただくことで利用できます．\n"
+					 "通知シップの選択ボタンを長押しすることで，通知クエストの選択が可能です．"
+					 "初期状態は，全てのクエストにチェックが入っているためクエストの種類に関わらず通知"
+					 "されるようになっています．チェックを外すと，そのクエストについては通知対象から外すことが可能です．"
+					 "通知クエストは，惑星とクエスト単位から選択が可能です．例えば，「市街地」のチェックを外した場合"
+					 "「市街地奪還作戦」「市街地掃討作戦」「淵へと迫りしもの」が通知対象からはずされます．"
+					 "Twitterのつぶやきに緊急クエストの種類が書かれていない場合や，期間限定クエスト等の場合ここでの設定に関わらず"
+					 "通知されます．ご注意ください．\n"</string>
+    <string name="buy_title">オプションについて（有料）</string>
+    <string name="buy_whats">"ご利用ありがとうございます．\n" 
+        				 "オプションを有効にすることで\n"
+						 "●通知対象シップの複数選択\n"
+						 "●通知対象クエストの選択\n"
+						 "●アプリ内広告の非表示\n"
+						 "が利用可能になります．各種機能の詳細は"
+						 "ヘルプからご確認ください．"</string>
+
+</resources>

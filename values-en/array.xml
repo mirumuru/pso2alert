@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_entries">
+        <item>Ship01：FEO</item>
+        <item>Ship02：UL</item>
+        <item>Ship03：SONE</item>
+        <item>Ship04：ANSLL</item>
+        <item>Ship05：RAGZ</item>
+        <item>Ship06：KEN</item>
+        <item>Ship07：GYOHU</item>
+        <item>Ship08：WIN</item>
+        <item>Ship09：HAGAL</item>
+        <item>Ship10：NOWSIZ</item>
+    </string-array>
+    <string-array name="list_entryValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="EMG_QUEST">
+        <item>Interrupt rankings</item>
+        <item>City area</item>
+        <item>Planet Naberiusu</item>
+        <item>Planet Riri-pa</item>
+        <item>Planet Amudo~usukia</item>
+        <item>Planet Oparu</item>
+        <item>市街地奪還作戦</item>
+        <item>市街地掃討作戦</item>
+        <item>淵へと迫りしもの</item>
+        <item>ファングバンサー討伐</item>
+        <item>巨大機甲種・覚醒</item>
+        <item>火山洞窟遊撃戦</item>
+        <item>迫る漆黒の腕</item>
+        <item>猛る黒曜の暴腕</item>
+        <item>砂漠遊撃戦</item>
+        <item>暴走龍の怨嗟</item>
+    </string-array>
+
+</resources>
